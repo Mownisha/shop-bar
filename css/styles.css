@@ -1,0 +1,27 @@
+#drinks, #under-21 {
+  display: none;
+}
+
+#drinks {
+  color: green;
+  background-color: pink;
+  font-weight: bolder;
+  font-style: italic;
+  font-family: cursive;
+}
+
+#under-21 {
+  color: red;
+  background-color: teal;
+  font-weight: bolder;
+  font-style: italic;
+  font-family: cursive;
+}
+
+p {
+  font-size: 20px;
+}
+
+ul {
+  font-size: 20px;
+}
